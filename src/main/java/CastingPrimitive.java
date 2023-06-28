@@ -18,6 +18,7 @@ public class CastingPrimitive {
     public static void main(String [] args){
         
     }
+    
     public int castToInt(double d){
         return (int) d;
     }
